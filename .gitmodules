@@ -1,3 +1,6 @@
 [submodule "mobile/ClimateAssistVision-mobile"]
 	path = mobile/ClimateAssistVision-mobile
 	url = https://github.com/malancas-anamaria-niculina/ClimateAssistVision-mobile
+[submodule "server/ClimateAssistVision-server"]
+	path = server/ClimateAssistVision-server
+	url = https://github.com/MihaelaDariana/ClimateAssistVision-server
